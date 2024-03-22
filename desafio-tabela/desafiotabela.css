@@ -1,0 +1,20 @@
+.moda {
+    background-color: #bb86fc;
+}
+
+.casa {
+    background-color: #00c4b4;
+}
+
+.produtos{
+    background-color: #424250;
+    
+}
+
+.color, .produtos{
+ color: #ffffff;
+}
+
+td {
+padding: 7px;
+}
