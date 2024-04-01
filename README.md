@@ -1,11 +1,11 @@
-Exercío 1 - Criar uma lista de alimentos “saudáveis”
+* Exercío 1 - Criar uma lista de alimentos “saudáveis”
 usando as tags corretas de HTML.
 
-Exercío 2 - Criar uma imagem com link externo.
+* Exercío 2 - Criar uma imagem com link externo.
 
-Exercío 3 - Criar 2 parágrafos com backgrounds deferente, espaçamentos internos e externos.
+* Exercío 3 - Criar 2 parágrafos com backgrounds deferente, espaçamentos internos e externos.
 
-Desafio de uma Tabela estilizada.
+* Desafio de uma Tabela estilizada.
 
 ## Captura de tela
 
